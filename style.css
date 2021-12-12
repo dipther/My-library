@@ -1,0 +1,48 @@
+.tituloGrande{
+display: flex;
+align-items: center;
+justify-content: center;
+}
+p{
+    text-align: center;
+}
+.formulario{
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+    align-items: center;
+    justify-content: center;
+}
+input{
+width: 200px;
+}
+label{
+    width: 50px;
+}
+button{
+    width: 250px;
+   
+}
+.padreFormulario{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.leidoONo{
+    display: block;
+}
+#read, #noRead{
+    width: 20px;
+}
+.siONo, .siONo1,.checkBoxNoLeido{
+    width: 30px;
+    margin-left: 10px;
+}
+.libroNuevo, .printear{
+    width: 320px;
+    margin-top: 50px;
+   
+}
+.borrar{
+width: auto;
+}
